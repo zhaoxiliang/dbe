@@ -5,4 +5,4 @@
 
 - program 各章do文件
 - data 数据
-- slides PPT课件
+- 配套PPT课件，在封底折页扫码获取，或直接联系出版社获取。
